@@ -1,6 +1,6 @@
 {
   "name": "vue-funnel-graph-js-by_devak",
-  "version": "1",
+  "version": "0.1.5",
   "description": "",
   "main": "dist/vue-funnel-graph.umd.js",
   "module": "dist/vue-funnel-graph.esm.js",

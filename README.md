@@ -37,7 +37,7 @@ This is the Vue.js version of FunnelGraph.js, learn more about the library and s
 
 #### NPM
 ```js
-npm i vue-funnel-graph-js
+npm i vue-funnel-graph-js-by_devak
 ```
 
 #### UNPKG
