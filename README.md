@@ -1,10 +1,5 @@
 # VueFunnelGraph.js
 
-![npm](https://img.shields.io/npm/v/vue-funnel-graph-js.svg)
-![GitHub](https://img.shields.io/github/license/greghub/vue-funnel-graph-js.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/greghub/vue-funnel-graph-js.svg)
-[![Gitter](https://img.shields.io/gitter/room/greghub/funnel-graph-js.svg)](https://gitter.im/funnel-graph-js/community)
-
 Funnel graph drawing library for Vue.js.
 
 * SVG charts
@@ -16,22 +11,10 @@ Funnel graph drawing library for Vue.js.
 * Solid color and gradient fill
 * Horizontal and vertical charts
 
-<img src="https://s2.gifyu.com/images/funnel-graph.gif">
-
-This is the Vue.js version of FunnelGraph.js, learn more about the library and see documentation [here.](https://github.com/greghub/funnel-graph-js)
-
-## Demo
 
 #### Online Demo
 
 [CodePen Demo](https://codepen.io/gregh/full/gEBXPK)
-
-#### Development Demo
-
-* Clone the repo
-* Navigate to `src` folder
-* Run `vue serve example.vue`
-* Visit the URL displayed
 
 ## Installation
 
@@ -40,12 +23,6 @@ This is the Vue.js version of FunnelGraph.js, learn more about the library and s
 npm i vue-funnel-graph-js-by_devak
 ```
 
-#### UNPKG
-```html
-<script src="https://unpkg.com/vue-funnel-graph-js"></script>
-```
-
-#### CDN
 ```html
 <script src="https://cdn.jsdelivr.net/npm/vue-funnel-graph-js/dist/vue-funnel-graph.min.js"></script>
 ```
@@ -55,7 +32,7 @@ npm i vue-funnel-graph-js-by_devak
 After installing, import the `VueFunnelGraph` component:
 
 ```js
-import { VueFunnelGraph } from 'vue-funnel-graph-js';
+import { VueFunnelGraph } from 'vue-funnel-graph-js-by_devak';
 ```
 
 You can now use the custom element:
